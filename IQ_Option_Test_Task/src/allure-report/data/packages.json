@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "AuthorizationTests",
+    "children" : [ {
+      "name" : "failedAuthorization",
+      "uid" : "a45950410c4e7914",
+      "parentUid" : "2c3edf53cff6e2cb6c1a214689d1e77f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1515432146321,
+        "stop" : 1515432168223,
+        "duration" : 21902
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "successfulAuthorization",
+      "uid" : "d0d15a000a0d0f7",
+      "parentUid" : "2c3edf53cff6e2cb6c1a214689d1e77f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1515432172563,
+        "stop" : 1515432192188,
+        "duration" : 19625
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2c3edf53cff6e2cb6c1a214689d1e77f"
+  } ]
+}

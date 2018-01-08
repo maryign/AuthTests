@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Mari-PC",
+    "children" : [ {
+      "name" : "5988@Mari-PC.main(1)",
+      "children" : [ {
+        "name" : "Invalid login or password",
+        "uid" : "a45950410c4e7914",
+        "parentUid" : "e89b2fa14bd5352e0aa262d658576400",
+        "status" : "passed",
+        "time" : {
+          "start" : 1515432146321,
+          "stop" : 1515432168223,
+          "duration" : 21902
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Valid login and password",
+        "uid" : "d0d15a000a0d0f7",
+        "parentUid" : "e89b2fa14bd5352e0aa262d658576400",
+        "status" : "passed",
+        "time" : {
+          "start" : 1515432172563,
+          "stop" : 1515432192188,
+          "duration" : 19625
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e89b2fa14bd5352e0aa262d658576400"
+    } ],
+    "uid" : "dc8a426f24eb11a22de4ad2f09bd1a46"
+  } ]
+}

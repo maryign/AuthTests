@@ -1,0 +1,41 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Authorization. Valid and invalid data.",
+    "children" : [ {
+      "name" : "Login and password",
+      "children" : [ {
+        "name" : "AuthorizationTests",
+        "children" : [ {
+          "name" : "Invalid login or password",
+          "uid" : "a45950410c4e7914",
+          "parentUid" : "2a40f170205ada17b0522257e2c4f5fb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1515432146321,
+            "stop" : 1515432168223,
+            "duration" : 21902
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        }, {
+          "name" : "Valid login and password",
+          "uid" : "d0d15a000a0d0f7",
+          "parentUid" : "2a40f170205ada17b0522257e2c4f5fb",
+          "status" : "passed",
+          "time" : {
+            "start" : 1515432172563,
+            "stop" : 1515432192188,
+            "duration" : 19625
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2a40f170205ada17b0522257e2c4f5fb"
+      } ],
+      "uid" : "33f925bbfc9835fb4765f5b9fd9a09a5"
+    } ],
+    "uid" : "f631f143a55363f78d533274a27b28e7"
+  } ]
+}

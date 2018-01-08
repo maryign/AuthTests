@@ -1,0 +1,21 @@
+[ {
+  "uid" : "a45950410c4e7914",
+  "name" : "Invalid login or password",
+  "time" : {
+    "start" : 1515432146321,
+    "stop" : 1515432168223,
+    "duration" : 21902
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0d15a000a0d0f7",
+  "name" : "Valid login and password",
+  "time" : {
+    "start" : 1515432172563,
+    "stop" : 1515432192188,
+    "duration" : 19625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

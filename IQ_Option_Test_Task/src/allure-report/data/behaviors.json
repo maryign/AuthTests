@@ -1,0 +1,33 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Authorization",
+    "children" : [ {
+      "name" : "Invalid login or password",
+      "uid" : "a45950410c4e7914",
+      "parentUid" : "247f290730831b7969ad224582050a32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1515432146321,
+        "stop" : 1515432168223,
+        "duration" : 21902
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Valid login and password",
+      "uid" : "d0d15a000a0d0f7",
+      "parentUid" : "247f290730831b7969ad224582050a32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1515432172563,
+        "stop" : 1515432192188,
+        "duration" : 19625
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "247f290730831b7969ad224582050a32"
+  } ]
+}

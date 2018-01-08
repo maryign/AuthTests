@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","AuthorizationTests.failedAuthorization","21902","Authorization with invalid password"
+"passed","AuthorizationTests.successfulAuthorization","19625","Authorization with valid data"
