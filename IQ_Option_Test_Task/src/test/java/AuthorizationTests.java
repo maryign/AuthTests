@@ -28,9 +28,7 @@ public class AuthorizationTests extends BaseTest {
         WebDriverWait wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.urlToBe("https://eu.iqoption.com/ru"));
         ProfileTab profile = new ProfileTab(driver);
-//        profile.checkUserEmail(login);
         assertTrue( profile.checkUserEmail(login),  "User email not equals login");
-//        assertTrue(login.equals(profile.getUserEmail()));
     }
 
     @Test(description = "Invalid login or password")
